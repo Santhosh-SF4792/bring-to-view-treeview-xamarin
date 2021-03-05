@@ -38,7 +38,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Syncfusion.Xamarin.SfTreeView" Version="18.3.0.47" />
+    <PackageReference Include="Syncfusion.Xamarin.SfTreeView" Version="18.4.0.44" />
     <PackageReference Include="Xamarin.Forms" Version="4.5.0.617" />
   </ItemGroup>
 </Project>
